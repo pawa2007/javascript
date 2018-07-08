@@ -26,6 +26,7 @@
 * [Electron](https://electronjs.org/)
 * Google
   * [Angular](https://angular.io/)
+  * [Flutter](https://flutter.io)
   * [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
 * Facebook
   * [React (Facebook)](https://reactjs.org/)
