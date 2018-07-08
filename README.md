@@ -40,6 +40,10 @@
 * [Android Design Guide](https://developer.android.com/design/)
 * [Mozilla Style Guide](https://www.mozilla.org/en-US/styleguide/)
 * [Microsoft Design](https://www.microsoft.com/design/)
+* [Apple Human Interface Guidelines](https://developer.apple.com/design/)
+* Design Patterns
+  * [BEM (Block-Element-Modifier) Pattern - used in CSS](http://getbem.com/)
+  * [BEM](https://en.bem.info/)
 
 ## Icons, Graphics and Themes
 * [Font Awesome](https://fontawesome.com/)
