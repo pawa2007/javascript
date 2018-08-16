@@ -30,6 +30,8 @@
   * [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
 * Facebook
   * [React (Facebook)](https://reactjs.org/)
+* Microsoft
+  * [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
 * Progress Software (Telerik)
   * [NativeScript](https://www.nativescript.org/)
   * [KendoUI](https://www.progress.com/kendo-ui)
