@@ -15,30 +15,36 @@
   * [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Nodejs](https://nodejs.org/en/)
 * [jQuery](https://jquery.org/)
-* [Backbone.js](http://backbonejs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Ember.js](https://www.emberjs.com/)
-* [Knockout](http://knockoutjs.com/)
-* [Sencha Ext JS](https://www.sencha.com/products/extjs)
-* [Dojo](https://dojo.io/)
-* [Bootstrap](https://getbootstrap.com/)
-* [jQWidgets](https://www.jqwidgets.com/)
-* [Electron](https://electronjs.org/)
-* Google
-  * [Angular](https://angular.io/)
-  * [Flutter](https://flutter.io)
-  * [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
-* Facebook
-  * [React (Facebook)](https://reactjs.org/)
-* Microsoft
-  * [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
-* Progress Software (Telerik)
-  * [NativeScript](https://www.nativescript.org/)
-  * [KendoUI](https://www.progress.com/kendo-ui)
-* Rapid Application Development / Codeless Development
-  * [Bubble](https://bubble.is)
+* UI Frameworks
+  * [Backbone.js](http://backbonejs.org/)
+  * [Vue.js](https://vuejs.org/)
+  * [Ember.js](https://www.emberjs.com/)
+  * [Knockout](http://knockoutjs.com/)
+  * [Sencha Ext JS](https://www.sencha.com/products/extjs)
+  * [Dojo](https://dojo.io/)
+  * [jQWidgets](https://www.jqwidgets.com/)
+  * [Electron](https://electronjs.org/)
+  * Facebook
+    * [React (Facebook)](https://reactjs.org/)
+  * Google
+    * [Angular](https://angular.io/)
+    * [Flutter](https://flutter.io)
+    * [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
+  * Microsoft
+    * [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
+  * Progress Software (Telerik)
+    * [NativeScript](https://www.nativescript.org/)
+    * [KendoUI](https://www.progress.com/kendo-ui)
+  * Twitter
+    * [Bootstrap](https://getbootstrap.com/)
 * UI Component Development
   * [Storybook](https://storybook.js.org/)
+* Rapid Application Development / Codeless Development
+  * [Bubble](https://bubble.is)
+* Animation Framework
+  * [threejs](https://threejs.org/)
+* Data Visualization
+  * [d3js](https://d3js.org/)
 
 ## Design
 * [Google Material Design](https://material.io/)
@@ -50,6 +56,7 @@
 * Design Patterns
   * [BEM (Block-Element-Modifier) Pattern - used in CSS](http://getbem.com/)
   * [BEM](https://en.bem.info/)
+* [Mr.doob's Code Style](https://github.com/mrdoob/three.js/wiki/Mr.doob%27s-Code-Style%E2%84%A2)
 
 ## Icons, Graphics and Themes
 * [Font Awesome](https://fontawesome.com/)
