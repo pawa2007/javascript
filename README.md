@@ -47,7 +47,9 @@
   * [d3js](https://d3js.org/)
   * [Datawrapper](https://www.datawrapper.de/)
 
-## Design
+## Coding and Design Standards
+* [JavaScript Standard Style (node.js/eslint)](https://www.npmjs.com/package/standard)
+* [JavaScript Standard Style Rules (eslint)](https://github.com/standard/standard/blob/b6919b47573ec6940eb8eee36d8d16969ff46103/RULES.md)
 * [Google Material Design](https://material.io/)
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [Android Design Guide](https://developer.android.com/design/)
