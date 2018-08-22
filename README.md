@@ -9,6 +9,8 @@
 * [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
 * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
+* Online Books
+  * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
 
 ## Frameworks
 * Wikipedia
