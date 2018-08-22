@@ -8,6 +8,7 @@
 * [Opera Developer Site](https://dev.opera.com/)
 * [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
 * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+* [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
 
 ## Frameworks
 * Wikipedia
