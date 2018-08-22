@@ -48,8 +48,9 @@
   * [Datawrapper](https://www.datawrapper.de/)
 
 ## Coding and Design Standards
-* [JavaScript Standard Style (node.js/eslint)](https://www.npmjs.com/package/standard)
-* [JavaScript Standard Style Rules (eslint)](https://github.com/standard/standard/blob/b6919b47573ec6940eb8eee36d8d16969ff46103/RULES.md)
+* [JavaScript Standard Style (node module: standard)](https://www.npmjs.com/package/standard)
+* [JavaScript Standard Style Rules (with references to ESLint)](https://github.com/standard/standard/blob/b6919b47573ec6940eb8eee36d8d16969ff46103/RULES.md)
+* [ElectronJS Coding Style](https://electronjs.org/docs/development/coding-style)
 * [Google Material Design](https://material.io/)
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [Android Design Guide](https://developer.android.com/design/)
