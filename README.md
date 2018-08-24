@@ -2,7 +2,6 @@
 
 ## Learn
 * [W3Schools](https://www.w3schools.com/)
-* [TutorialsPoint](https://www.tutorialspoint.com)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Google Developers](https://developers.google.com/web/)
 * [Opera Developer Site](https://dev.opera.com/)
@@ -10,8 +9,21 @@
 * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
+* [TutorialsPoint](https://www.tutorialspoint.com)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
+
+## Online Playgrounds
+* HTML, CSS, JavaScript only
+  * [Thimble _(Mozilla)_](https://thimble.mozilla.org)
+  * [CodePen](https://codepen.io/)
+  * [jsFiddle](https://jsfiddle.net/)
+* Mobile (React Native, NativeScript) 
+  * [Snack _(expo.io)_](https://snack.expo.io/)
+  * [NativeScript Playground](https://play.nativescript.org/)
+* Multi Framework / Environment
+  * [CodeSandbox](https://codesandbox.io/)
+  * [CodingGround _(TutorialsPoint)_](https://www.tutorialspoint.com/codingground.htm)
 
 ## Frameworks
 * Wikipedia
@@ -29,7 +41,8 @@
   * [jQWidgets](https://www.jqwidgets.com/)
   * [Electron](https://electronjs.org/)
   * Facebook
-    * [React (Facebook)](https://reactjs.org/)
+    * [ReactJS](https://reactjs.org/)
+    * [React Native](https://facebook.github.io/react-native/)
   * Google
     * [Angular](https://angular.io/)
     * [Flutter](https://flutter.io)
@@ -50,6 +63,9 @@
 * Data Visualization
   * [d3js](https://d3js.org/)
   * [Datawrapper](https://www.datawrapper.de/)
+* Mobile Apps
+  * [React Native _(Facebook)_](https://facebook.github.io/react-native/)
+  * [NativeScript _(Progress Software/Telerik)_](https://www.nativescript.org/)
 
 ## Coding and Design Standards
 * [JavaScript Standard Style (node module: standard)](https://www.npmjs.com/package/standard)
