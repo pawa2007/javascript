@@ -1,6 +1,7 @@
 # JavaScript Notes
 
 ## Learn
+* [ECMAScript Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 * [W3Schools](https://www.w3schools.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Google Developers](https://developers.google.com/web/)
@@ -12,6 +13,11 @@
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
+* Personal Blogs
+  * [Brendan Eich](https://brendaneich.com/)
+  * [Ben Alman](http://benalman.com)
+  * [Miller Medeiros](http://blog.millermedeiros.com/)
+  * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
 
 ## Online Playgrounds
 * HTML, CSS, JavaScript only
