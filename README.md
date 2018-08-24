@@ -16,9 +16,9 @@
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
 * Personal Blogs
   * [Brendan Eich](https://brendaneich.com/)
+  * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
   * [Ben Alman](http://benalman.com)
   * [Miller Medeiros](http://blog.millermedeiros.com/)
-  * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
 
 ## Online Playgrounds
 * HTML, CSS, JavaScript only
