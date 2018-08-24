@@ -2,6 +2,7 @@
 
 ## Learn
 * [ECMAScript Standards](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+* [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
 * [W3Schools](https://www.w3schools.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Google Developers](https://developers.google.com/web/)
