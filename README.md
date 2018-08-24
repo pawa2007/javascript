@@ -21,6 +21,11 @@
 * Mobile (React Native, NativeScript) 
   * [Snack _(expo.io)_](https://snack.expo.io/)
   * [NativeScript Playground](https://play.nativescript.org/)
+* SQL
+  * [SQL Fiddle _(Multi Database)_](http://sqlfiddle.com/)
+  * [Oracle Live SQL](https://livesql.oracle.com)
+  * [SQL Tryit Editor _(W3Schools)_](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+  * [DB Fiddle _(MySQL, PostgreSQL, SQLite)_](https://www.db-fiddle.com/)
 * Multi Framework / Environment
   * [CodeSandbox](https://codesandbox.io/)
   * [CodingGround _(TutorialsPoint)_](https://www.tutorialspoint.com/codingground.htm)
