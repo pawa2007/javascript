@@ -14,6 +14,7 @@
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
+  * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
 * Personal Blogs
   * [Brendan Eich](https://brendaneich.com/)
   * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
