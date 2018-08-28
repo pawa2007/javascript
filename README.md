@@ -3,11 +3,12 @@
 ## Learn
 * [ECMAScript Standards](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 * [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
+* [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
 * [W3Schools](https://www.w3schools.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Google Developers](https://developers.google.com/web/)
 * [Opera Developer Site](https://dev.opera.com/)
-* [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
+* [Facebook Developers Site (Open Source)](https://developers.facebook.com/products#open-source)
 * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
