@@ -16,6 +16,8 @@
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
+* Videos
+  * [Pete Hunt: The Past, Present and Future of React (1:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
 * Personal Blogs
   * [Brendan Eich](https://brendaneich.com/)
   * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
@@ -116,3 +118,8 @@
 
 ## Test Data
 * [Todd Motto's List of Public APIs](https://github.com/toddmotto/public-apis)
+* Open Data Sites (data.gov.*)
+  * [USA](https://www.data.gov/)
+  * [UK](https://data.gov.uk/)
+  * [Australia](https://data.gov.au/)
+  * [India](https://data.gov.in/)
