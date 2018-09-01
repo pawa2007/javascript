@@ -31,13 +31,16 @@
     * [Rest Parameters/Use of Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     * [Getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
-  * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+  * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_ComponentsIntroducing JSON/Using_shadow_DOM))
   * Web Components
     * [w3c (github.com)](https://github.com/w3c/webcomponents/)
     * [w3c.github.io](https://w3c.github.io/webcomponents/)
     * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
     * [Google](https://developers.google.com/web/fundamentals/web-components/)
     * [wecomponents.org](https://www.webcomponents.org/introduction)
+* JSON
+  * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+  * [Introducing JSON](http://json.org/)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
