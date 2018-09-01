@@ -40,6 +40,7 @@
     * [wecomponents.org](https://www.webcomponents.org/introduction)
 * JSON
   * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+  * [RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
   * [Introducing JSON](http://json.org/)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
