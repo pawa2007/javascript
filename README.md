@@ -15,6 +15,7 @@
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * Key Concepts
   * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+  * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
   * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
   * [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
