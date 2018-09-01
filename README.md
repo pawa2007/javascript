@@ -31,7 +31,8 @@
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
   * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
   * Web Components
-    * [w3c](https://github.com/w3c/webcomponents/)
+    * [w3c (github.com)](https://github.com/w3c/webcomponents/)
+    * [w3c.github.io](https://w3c.github.io/webcomponents/)
     * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
     * [Google](https://developers.google.com/web/fundamentals/web-components/)
     * [wecomponents.org](https://www.webcomponents.org/introduction)
