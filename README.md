@@ -13,6 +13,10 @@
 * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [TutorialsPoint](https://www.tutorialspoint.com)
+* Key Concepts
+  * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+  * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
