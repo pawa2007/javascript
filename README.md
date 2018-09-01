@@ -14,11 +14,11 @@
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [TutorialsPoint](https://www.tutorialspoint.com)
 * Key Concepts
+  * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
   * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
   * [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
   * Functions
-    * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
     * [`arguments` Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
     * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
     * [Default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
