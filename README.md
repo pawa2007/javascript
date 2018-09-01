@@ -30,7 +30,11 @@
     * [Getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
   * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
-  * [Web Components](https://github.com/w3c/webcomponents/)
+  * Web Components
+    * [w3c](https://github.com/w3c/webcomponents/)
+    * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+    * [Google](https://developers.google.com/web/fundamentals/web-components/)
+    * [wecomponents.org](https://www.webcomponents.org/introduction)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
