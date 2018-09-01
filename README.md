@@ -17,6 +17,7 @@
   * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
   * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+  * [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
   * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
