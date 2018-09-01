@@ -18,6 +18,7 @@
   * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
   * [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
   * Functions
+    * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
     * [`arguments` Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
     * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
     * [Default parameter values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
