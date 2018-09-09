@@ -31,7 +31,7 @@
     * [Rest Parameters/Use of Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     * [Getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
-  * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_ComponentsIntroducing JSON/Using_shadow_DOM))
+  * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_ComponentsIntroducing JSON/Using_shadow_DOM)
   * Web Components
     * [w3c (github.com)](https://github.com/w3c/webcomponents/)
     * [w3c.github.io](https://w3c.github.io/webcomponents/)
