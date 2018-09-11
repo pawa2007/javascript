@@ -37,7 +37,15 @@
     * [w3c.github.io](https://w3c.github.io/webcomponents/)
     * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
     * [Google](https://developers.google.com/web/fundamentals/web-components/)
-    * [wecomponents.org](https://www.webcomponents.org/introduction)
+    * [webcomponents.org](https://www.webcomponents.org/introduction)
+  * Workers
+    * [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+	* [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+	* [Functions and Classes available to Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers)
+  * PWA (Progressive Web Applications)
+	* [Google _(Progressive Web Apps Training)_](https://developers.google.com/web/ilt/pwa/)
+	* [Mozilla _(MDN)_](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+
 * JSON
   * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
   * [RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
