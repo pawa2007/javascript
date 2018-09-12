@@ -42,9 +42,13 @@
     * [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 	* [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 	* [Functions and Classes available to Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers)
+	* [Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
   * PWA (Progressive Web Applications)
-	* [Google _(Progressive Web Apps Training)_](https://developers.google.com/web/ilt/pwa/)
-	* [Mozilla _(MDN)_](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+	* Google
+		* [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
+	* [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+  * CORS (Cross-Origin Resource Sharing)
+	* [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 * JSON
   * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
