@@ -31,6 +31,7 @@
     * [Rest Parameters/Use of Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     * [Getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
+  * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
   * Web Components
     * [w3c (github.com)](https://github.com/w3c/webcomponents/)
@@ -38,11 +39,16 @@
     * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
     * [Google](https://developers.google.com/web/fundamentals/web-components/)
     * [webcomponents.org](https://www.webcomponents.org/introduction)
+  * Storage
+	* [Web Storage - localStorage and sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+	* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+	* [Browser Extensions - storage.sync, storage.local and storage.managed](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/storage)
   * Workers
     * [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 	* [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 	* [Functions and Classes available to Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Functions_and_classes_available_to_workers)
 	* [Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/)
+	* [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
   * PWA (Progressive Web Applications)
 	* Google
 		* [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
