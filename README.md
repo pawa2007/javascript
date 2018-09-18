@@ -1,20 +1,56 @@
 # JavaScript Notes
 
 ## Learn
-* [ECMAScript Standards](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
-* [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
-* [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
-* [w3c Standards](https://www.w3.org/TR/)
-* [WHATWG Living Standards](https://whatwg.org/)
-* [W3Schools](https://www.w3schools.com/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Google Developers](https://developers.google.com/web/)
-* [Opera Developer Site](https://dev.opera.com/)
-* [Facebook Developers Site (Open Source)](https://developers.facebook.com/products#open-source)
-* [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-* [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
-* [The Modern JavaScript Tutorial](https://javascript.info/)
-* [TutorialsPoint](https://www.tutorialspoint.com)
+* Standards and Specifications
+  * Standards Bodies
+    * [w3c Standards](https://www.w3.org/TR/)
+    * [WHATWG Living Standards](https://whatwg.org/)
+    * [ECMAScript Standards](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+    * [IETF (Internet Engineering Task Force) Standards](https://www.ietf.org/standards/)
+  * HTML
+    * [HTML Living Standard _(WHATWG)_](https://html.spec.whatwg.org)
+	* [Latest HTML Standard _(w3c)_](https://www.w3.org/TR/html/)
+	* [All HTML Standards _(w3c)_](https://www.w3.org/TR/?tag=html&status=rec)
+  * CSS
+    * [CSS Standards _(w3c)_](https://www.w3.org/standards/techs/css)
+	* [CSS - The Official Definition _(w3c)_](https://www.w3.org/TR/CSS/#css)
+  * JavaScript / ECMAScript
+    * [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
+    * [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
+  * JavaScript Web API
+	* [Web API Standards _(w3c)_](https://www.w3.org/TR/?tag=webapi&status=rec)
+  * JSON (JavaScript Object Notation)
+    * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
+    * [RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
+    * [Introducing JSON](http://json.org/)
+  * XML (eXtensible Markup Language)
+    * [Latest XML Standard _(w3c)_](https://www.w3.org/TR/xml/)
+    * [All XML Standards _(w3c)_](https://www.w3.org/TR/?tag=xml&status=rec)
+  * DOM (Document Object Model)
+    * [DOM Living Standard _(WHATWG)_](https://dom.spec.whatwg.org/)
+	* [Latest DOM Standard _(w3c)_](https://www.w3.org/TR/dom/)
+	* [All DOM Standards _(w3c)_](https://www.w3.org/TR/?tag=dom&status=rec)
+  * XHR (XMLHttpRequest)
+    * [XMLHttpRequest Living Standard _(WHATWG)_](https://xhr.spec.whatwg.org/)
+  * Fetch
+    * [Fetch Living Standard _(WHATWG)_](https://fetch.spec.whatwg.org/)
+  * HTTP
+    * [IETF HTTP Working Group](https://httpwg.org/)
+  * Web Components
+    * []()
+* Documentation and Reference Material
+  * [node Documentation](https://nodejs.org/en/docs/)
+  * [npm Documentation](https://docs.npmjs.com/)
+  * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [Google Developers](https://developers.google.com/web/)
+  * [w3c Developer Avenue](https://www.w3.org/developers/)
+  * [W3Schools](https://www.w3schools.com/)
+  * [Opera Developer Site](https://dev.opera.com/)
+  * [Facebook Developers Site (Open Source)](https://developers.facebook.com/products#open-source)
+  * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+  * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
+  * [The Modern JavaScript Tutorial](https://javascript.info/)
+  * [TutorialsPoint](https://www.tutorialspoint.com)
 * Key Concepts
   * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
   * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
@@ -53,13 +89,17 @@
 	* Google
 		* [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
 	* [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+	* [Microsoft](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps)
   * CORS (Cross-Origin Resource Sharing)
 	* [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-
-* JSON
-  * [ECMA-404 Standard - The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/standards/Ecma-404.htm)
-  * [RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
-  * [Introducing JSON](http://json.org/)
+  * Semantic Versioning (semver)
+	* [Semantic Versioning](https://semver.org/)
+	* [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
+  * Licensing
+	* [SPDX (Software Package Data Exchange) License List](https://spdx.org/licenses/)
+  * node and npm
+	* [The Basics of Package.json in Node.js and npm](https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/)
+	* [package.json _(npmjs Documentation)_](https://docs.npmjs.com/files/package.json)
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
