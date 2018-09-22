@@ -103,13 +103,18 @@
 * Online Books
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
+  * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * Videos
-  * [Pete Hunt: The Past, Present and Future of React (1:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
+  * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
+  * [Nicholas Zakas: Writing Maintainable JavaScript (00:47:01)](blob:https://www.youtube.com/cc1c5471-15fa-4b44-bf6b-c91a9f432ea6)
 * Personal Blogs
   * [Brendan Eich](https://brendaneich.com/)
   * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
   * [Ben Alman](http://benalman.com)
   * [Miller Medeiros](http://blog.millermedeiros.com/)
+  * [Addy Osmani](https://addyosmani.com)
+  * [Nicholas Zakas](https://humanwhocodes.com/)
+  * [Christopher Alexander _(Pattern Language)_](http://www.patternlanguage.com/)
 
 ## Online Playgrounds
 * HTML, CSS, JavaScript only
