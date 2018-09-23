@@ -37,24 +37,35 @@
   * HTTP
     * [IETF HTTP Working Group](https://httpwg.org/)
   * Web Components
-    * []()
+    * [webcomponents.org](https://www.webcomponents.org/introduction)
+    * [w3c (github.com) - Shadow DOM + Custom Elements + HTML Templates + CSS](https://github.com/w3c/webcomponents/)
+    * [w3c.github.io - Shadow DOM + Custom Elements + HTML Imports (Discontinued ?)](https://w3c.github.io/webcomponents/)
+  * Web Sockets
+    * [HTML Living Standard _(WHATWG)_](https://html.spec.whatwg.org/multipage/web-sockets.html)
 * Documentation and Reference Material
-  * [node Documentation](https://nodejs.org/en/docs/)
-  * [npm Documentation](https://docs.npmjs.com/)
-  * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  * [Google Developers](https://developers.google.com/web/)
-  * [w3c Developer Avenue](https://www.w3.org/developers/)
-  * [W3Schools](https://www.w3schools.com/)
-  * [Opera Developer Site](https://dev.opera.com/)
-  * [Facebook Developers Site (Open Source)](https://developers.facebook.com/products#open-source)
-  * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-  * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
-  * [The Modern JavaScript Tutorial](https://javascript.info/)
-  * [TutorialsPoint](https://www.tutorialspoint.com)
+  * Development
+	  * [node Documentation](https://nodejs.org/en/docs/)
+	  * [npm Documentation](https://docs.npmjs.com/)
+	  * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	  * [Google Developers](https://developers.google.com/web/)
+	  * [w3c Developer Avenue](https://www.w3.org/developers/)
+	  * [W3Schools](https://www.w3schools.com/)
+	  * [Opera Developer Site](https://dev.opera.com/)
+	  * [Facebook Developers Site (Open Source)](https://developers.facebook.com/products#open-source)
+	  * [NodeSchool (Interactive Code Workshop Modules within Node.js)](https://nodeschool.io/)
+	  * [The Modern JavaScript Tutorial](https://javascript.info/)
+	  * []()
+	  * [Cucumber (BDD)](https://docs.cucumber.io/)
+	  * [TutorialsPoint](https://www.tutorialspoint.com)
+  * Testing
+	* [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html)
+	* [Learn TDD (Test Driven Development)](https://github.com/dwyl/learn-tdd)
+  * Documentation
+    * [devdocs.io _(Collection of all API documentation)_](https://devdocs.io/)
+    * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 * Key Concepts
   * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
   * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
-  * [`export`/`import` statement (JavaScript modules)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
   * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [Template Strings/Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
   * [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
@@ -67,8 +78,44 @@
     * [Rest Parameters/Use of Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     * [Getter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
     * [Setter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
-  * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   * [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+  * Asynchronous
+    * [Synchronous and asynchronous requests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests)
+	* [XHR (XMLHttpRequest)](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+	* [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+    * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+	* [`async` function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+	* [`await` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+	* [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+  * JavaScript Modules
+	  * [JavaScript Module Pattern: In-Depth _(Ben Cherry)_](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+	  * [The Module Pattern _(Learning JavaScript Design Patterns by Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+	  * [The Revealing Module Pattern _(Christian Heilmann)_](https://christianheilmann.com/2007/08/22/again-with-the-module-pattern-reveal-something-to-the-world/)
+	  * [Ch 16: Modules _(Exploring ES6 by Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/ch_modules.html)
+	  * [Moving Past RequireJS _(Ben McCormick)_](https://benmccormick.org/2015/05/28/moving-past-requirejs/)
+	  * [The mind-boggling universe of JavaScript Module strategies _(Tiago Romero Garcia)_](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules)
+	  * AMD (Asynchronous Module Definition)
+	    * [RequireJS](https://requirejs.org/)
+		* [AMDJS](https://github.com/amdjs/amdjs-api)
+	  * [CommonJS](http://www.commonjs.org/)
+	  * `export`/`import` (aka ECMAScript Harmony modules)
+        * [`export` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+	    * [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+	  * [SystemJS](https://github.com/systemjs/systemjs)
+	  * Bundlers
+		* [webpack](https://webpack.js.org/)
+		* [Parcel](https://parceljs.org/)
+		* [browserify](http://browserify.org/)
+		* [rollup.js](https://rollupjs.org/guide/en)
+	  * Lazy Loading
+	    * [Lazy Loading ES2015 Modules in the Browser _(Tiago Romero Garcia)_](https://dzone.com/articles/lazy-loading-es2015-modules-in-the-browser)
+  * Builders, Task Runners
+	* [Grunt](https://gruntjs.com/)
+	* [Gulp](https://gulpjs.com/)
+  * Transpilers / Compilers
+    * [Babel](https://babeljs.io/)
+	* [Traceur](https://github.com/google/traceur-compiler)
+	* [TypeScript](http://www.typescriptlang.org/)
   * Web Components
     * [w3c (github.com)](https://github.com/w3c/webcomponents/)
     * [w3c.github.io](https://w3c.github.io/webcomponents/)
@@ -104,16 +151,22 @@
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
   * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  * [Exploring ES6 _(Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/index.html)
 * Videos
   * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
   * [Nicholas Zakas: Writing Maintainable JavaScript (00:47:01)](https://www.youtube.com/watch?v=c-kav7Tf834)
-* Personal Blogs
-  * [Brendan Eich](https://brendaneich.com/)
+* Personal Blogs / Twitter Feeds
+  * [Brendan Eich _(JavaScript)_](https://brendaneich.com/)
+  * [John Resig _(JQuery)_](https://johnresig.com/)
+  * [Ryan Dahl _(NodeJS)_](http://tinyclouds.org/)
+  * [Sebastian McKenzie _(Babel)_](https://twitter.com/sebmck)
+  * [Paul Irish](https://www.paulirish.com/)
+  * [Addy Osmani](https://addyosmani.com)
   * [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
   * [Ben Alman](http://benalman.com)
   * [Miller Medeiros](http://blog.millermedeiros.com/)
-  * [Addy Osmani](https://addyosmani.com)
   * [Nicholas Zakas](https://humanwhocodes.com/)
+  * [Jake Archibald](https://jakearchibald.com/)
   * [Christopher Alexander _(Pattern Language)_](http://www.patternlanguage.com/)
 
 ## Online Playgrounds
@@ -139,6 +192,8 @@
   * [List of JavaScript Libraries](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Nodejs](https://nodejs.org/en/)
 * [jQuery](https://jquery.org/)
+* Feature Detection / Polyfills
+  * [Modernizr](https://modernizr.com/)
 * UI Frameworks
   * [Backbone.js](http://backbonejs.org/)
   * [Vue.js](https://vuejs.org/)
@@ -162,6 +217,24 @@
     * [KendoUI](https://www.progress.com/kendo-ui)
   * Twitter
     * [Bootstrap](https://getbootstrap.com/)
+* Testing
+  * Unit / Integration
+    * [List of Unit Testing Frameworks for JavaScript _(Wikipedia)_](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
+    * [QUnit _(JQuery)_](https://qunitjs.com/)
+    * [Jest _(Facebook)_](https://jestjs.io/)
+  * BDD / UI / Functional
+    * [Jasmine](https://jasmine.github.io/)
+    * [TestCafe](https://testcafe.devexpress.com/)
+  * Multipurpose
+    * [Mocha](https://mochajs.org/)
+	* [Chai](https://www.chaijs.com/)
+	* [Tape](https://github.com/substack/tape)
+	* [YUI Test](https://yuilibrary.com/yui/docs/test/)
+  * Test Automation Framework
+    * [Selenium](https://www.seleniumhq.org/)
+    * [Appium](http://appium.io/)
+  * Test Runners
+    * [Karma](http://karma-runner.github.io)
 * UI Component Development
   * [Storybook](https://storybook.js.org/)
 * Rapid Application Development / Codeless Development
@@ -174,6 +247,12 @@
 * Mobile Apps
   * [React Native _(Facebook)_](https://facebook.github.io/react-native/)
   * [NativeScript _(Progress Software/Telerik)_](https://www.nativescript.org/)
+* Continuous Integration
+  * [Travis CI](https://travis-ci.org/)
+  * [AppVeyor](https://www.appveyor.com/)
+  * [Bamboo _(Atlassian)_](https://www.atlassian.com/software/bamboo)
+  * [Semaphore CI](https://semaphoreci.com/)
+  * [Jenkins]()
 
 ## Coding and Design Standards
 * [JavaScript Standard Style (node module: standard)](https://www.npmjs.com/package/standard)
@@ -209,6 +288,7 @@
 * [Github Desktop](https://desktop.github.com/)
 
 ## Test Data
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 * [Todd Motto's List of Public APIs](https://github.com/toddmotto/public-apis)
 * Open Data Sites (data.gov.*)
   * [USA](https://www.data.gov/)
