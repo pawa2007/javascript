@@ -117,8 +117,9 @@
 	* [Gulp](https://gulpjs.com/)
   * Transpilers / Compilers
     * [Babel](https://babeljs.io/)
-	* [Traceur](https://github.com/google/traceur-compiler)
-	* [TypeScript](http://www.typescriptlang.org/)
+	* [Traceur _(Google)_](https://github.com/google/traceur-compiler)
+	* [TypeScript _(Microsoft)_](http://www.typescriptlang.org/)
+	* [Flow _(Facebook)_](https://flow.org)
   * Web Components
     * [w3c (github.com)](https://github.com/w3c/webcomponents/)
     * [w3c.github.io](https://w3c.github.io/webcomponents/)
@@ -154,6 +155,7 @@
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
   * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  * [Speaking JavaScript _(Dr. Axel Rauschmayer)_](http://speakingjs.com/es5/index.html)
   * [Exploring ES6 _(Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/index.html)
 * Videos
   * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
@@ -188,6 +190,7 @@
 * Multi Framework / Environment
   * [CodeSandbox](https://codesandbox.io/)
   * [CodingGround _(TutorialsPoint)_](https://www.tutorialspoint.com/codingground.htm)
+  * [repl.it](https://repl.it/languages)
 
 ## Frameworks
 * Wikipedia
