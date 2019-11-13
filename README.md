@@ -182,6 +182,7 @@
 * Mobile (React Native, NativeScript) 
   * [Snack _(expo.io)_](https://snack.expo.io/)
   * [NativeScript Playground](https://play.nativescript.org/)
+  * [Kotlin](https://play.kotlinlang.org)
 * SQL
   * [SQL Fiddle _(Multi Database)_](http://sqlfiddle.com/)
   * [Oracle Live SQL](https://livesql.oracle.com)
@@ -223,17 +224,19 @@
     * [KendoUI](https://www.progress.com/kendo-ui)
   * Twitter
     * [Bootstrap](https://getbootstrap.com/)
+  * Adobe
+    * [Phonegap](https://phonegap.com/)
 * Testing
   * Unit / Integration
     * [List of Unit Testing Frameworks for JavaScript _(Wikipedia)_](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript)
     * [QUnit _(JQuery)_](https://qunitjs.com/)
     * [Jest _(Facebook)_](https://jestjs.io/)
-  * BDD / UI / Functional
+  * BDD / TDD / UI / Functional
     * [Jasmine](https://jasmine.github.io/)
+	* [Chai](https://www.chaijs.com/)
     * [TestCafe](https://testcafe.devexpress.com/)
   * Multipurpose
     * [Mocha](https://mochajs.org/)
-	* [Chai](https://www.chaijs.com/)
 	* [Tape](https://github.com/substack/tape)
 	* [YUI Test](https://yuilibrary.com/yui/docs/test/)
   * Test Automation Framework
@@ -286,8 +289,9 @@
 * [Google Material Design Icons](https://material.io/tools/icons/)
 
 ## IDEs and Toolkits
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code _(Microsoft)_](https://code.visualstudio.com/)
 * [Atom (Github)](https://atom.io/)
+* [Nuclide _(Facebook plugin for Atom - not supported officially on Windows)_](https://nuclide.io/)
 * [Dojo Toolkit](https://dojotoolkit.org/)
 
 ## Version Control
