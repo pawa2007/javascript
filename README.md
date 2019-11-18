@@ -157,6 +157,7 @@
   * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   * [Speaking JavaScript _(Dr. Axel Rauschmayer)_](http://speakingjs.com/es5/index.html)
   * [Exploring ES6 _(Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/index.html)
+  * [You Don't Know JS _(Kyle Simpson)_](https://github.com/getify/You-Dont-Know-JS)
 * Videos
   * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
   * [Nicholas Zakas: Writing Maintainable JavaScript (00:47:01)](https://www.youtube.com/watch?v=c-kav7Tf834)
@@ -173,6 +174,7 @@
   * [Nicholas Zakas](https://humanwhocodes.com/)
   * [Jake Archibald](https://jakearchibald.com/)
   * [Christopher Alexander _(Pattern Language)_](http://www.patternlanguage.com/)
+  * [Kyle Simpson](https://github.com/getify)
 
 ## Online Playgrounds
 * HTML, CSS, JavaScript only
